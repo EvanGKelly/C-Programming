@@ -1,3 +1,3 @@
 # C-Programming
 My projects made using C Language.
-A program in C which scans a file and prints it out in the console in a TAB format.
+This repository contains programs which I have written in C Language
